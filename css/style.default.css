@@ -2351,8 +2351,9 @@ div.error label.error:before {
 }
 
 .activity-list .act-thumb {
-    width: 28px;
+    width: 40px;
     vertical-align: middle;
+    border-radius: 50%;
 }
 
 .activity-list .act-media-body {
